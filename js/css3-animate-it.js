@@ -118,25 +118,25 @@
 //
 // *Version: 1.0, Last updated: 3/3/2010*
 // 
-// Project Home - http://benalman.com/projects/jquery-dotimeout-plugin/
-// GitHub       - http://github.com/cowboy/jquery-dotimeout/
-// Source       - http://github.com/cowboy/jquery-dotimeout/raw/master/jquery.ba-dotimeout.js
-// (Minified)   - http://github.com/cowboy/jquery-dotimeout/raw/master/jquery.ba-dotimeout.min.js (1.0kb)
+// Project Home - https://benalman.com/projects/jquery-dotimeout-plugin/
+// GitHub       - https://github.com/cowboy/jquery-dotimeout/
+// Source       - https://github.com/cowboy/jquery-dotimeout/raw/master/jquery.ba-dotimeout.js
+// (Minified)   - https://github.com/cowboy/jquery-dotimeout/raw/master/jquery.ba-dotimeout.min.js (1.0kb)
 // 
 // About: License
 // 
 // Copyright (c) 2010 "Cowboy" Ben Alman,
 // Dual licensed under the MIT and GPL licenses.
-// http://benalman.com/about/license/
+// https://benalman.com/about/license/
 // 
 // About: Examples
 // 
 // These working examples, complete with fully commented code, illustrate a few
 // ways in which this plugin can be used.
 // 
-// Debouncing      - http://benalman.com/code/projects/jquery-dotimeout/examples/debouncing/
-// Delays, Polling - http://benalman.com/code/projects/jquery-dotimeout/examples/delay-poll/
-// Hover Intent    - http://benalman.com/code/projects/jquery-dotimeout/examples/hoverintent/
+// Debouncing      - https://benalman.com/code/projects/jquery-dotimeout/examples/debouncing/
+// Delays, Polling - https://benalman.com/code/projects/jquery-dotimeout/examples/delay-poll/
+// Hover Intent    - https://benalman.com/code/projects/jquery-dotimeout/examples/hoverintent/
 // 
 // About: Support and Testing
 // 
@@ -146,7 +146,7 @@
 // 
 // jQuery Versions - 1.3.2, 1.4.2
 // Browsers Tested - Internet Explorer 6-8, Firefox 2-3.6, Safari 3-4, Chrome 4-5, Opera 9.6-10.1.
-// Unit Tests      - http://benalman.com/code/projects/jquery-dotimeout/unit/
+// Unit Tests      - https://benalman.com/code/projects/jquery-dotimeout/unit/
 // 
 // About: Release History
 // 
